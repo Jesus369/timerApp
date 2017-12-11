@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+}
+
+.timerContainer{
+  background-color: white;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px 3px;
+  margin: auto auto auto auto;
+  width: 20%;
+}
+
+
+.timerDisplay {
+
+}
+
+.childTimer {
+}
+
+.button {
+  background-color: #CD6E3E;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 12.9px;
+}
+
+.timeRequest {
+  border: 1px solid black;
+}
